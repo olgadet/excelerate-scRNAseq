@@ -1,5 +1,11 @@
 ![logo](logos/excelerate.png)
 
+## Testing equations
+
+1. R$$^2$$ 
+2. R$^2$ 
+
+
 ## About
 
 This international hands-on course covers several aspects of single cell RNA-seq data analysis, ranging from clustering and differential gene expression analysis to trajectories, cell type identification and spatial transcriptomics. The course is kindly sponsored by the ELIXIR EXCELERATE project.
